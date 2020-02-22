@@ -1,0 +1,27 @@
+#NBA {
+    background-color:#de4f02;
+}
+
+p {
+    font-family: "Courier New";
+    font-size: 16px;
+}
+
+.youtube{
+    width: 500px;
+    height: 300px;
+}
+
+div {
+    height: 100vh;
+}
+
+iframe {
+    margin: 100px;
+    padding:500px;
+}
+
+#title {
+    font-size: 100px;
+    text-align: center;
+}

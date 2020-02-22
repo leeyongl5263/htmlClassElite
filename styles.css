@@ -1,0 +1,26 @@
+p {
+    color: magenta;
+    font-size: 100px;
+    background-color: green;
+}
+
+h1 {
+    color: Blue;
+
+}
+
+li {
+    font-size: 20px;
+    color: brown;
+    outline: dotted;
+}
+
+h3 {
+    color: green;
+}
+div {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("https://www.rei.com/dam/content_team_082817_47898_snowboard_rocker_lg.jpg");
+}
